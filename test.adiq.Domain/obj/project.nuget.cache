@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YEjluYxJc0xfOaS270XxJ7C909E4t3SeWmnZ1DwDugz2OO1yMQGFTUwn8/PezKF7zI8nUNTSOXZUb023Y8VaIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\source\\repos\\test.adiq.Api\\test.adiq.Domain\\test.adiq.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

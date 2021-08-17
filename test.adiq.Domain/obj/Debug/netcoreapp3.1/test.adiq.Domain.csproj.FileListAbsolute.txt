@@ -1,0 +1,9 @@
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Domain\bin\Debug\netcoreapp3.1\test.adiq.Domain.deps.json
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Domain\bin\Debug\netcoreapp3.1\test.adiq.Domain.dll
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Domain\bin\Debug\netcoreapp3.1\test.adiq.Domain.pdb
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Domain\obj\Debug\netcoreapp3.1\test.adiq.Domain.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Domain\obj\Debug\netcoreapp3.1\test.adiq.Domain.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Domain\obj\Debug\netcoreapp3.1\test.adiq.Domain.AssemblyInfo.cs
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Domain\obj\Debug\netcoreapp3.1\test.adiq.Domain.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Domain\obj\Debug\netcoreapp3.1\test.adiq.Domain.dll
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Domain\obj\Debug\netcoreapp3.1\test.adiq.Domain.pdb

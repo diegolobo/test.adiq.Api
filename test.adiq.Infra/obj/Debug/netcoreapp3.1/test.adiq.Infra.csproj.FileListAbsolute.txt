@@ -1,0 +1,12 @@
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\bin\Debug\netcoreapp3.1\test.adiq.Infra.deps.json
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\bin\Debug\netcoreapp3.1\test.adiq.Infra.dll
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\bin\Debug\netcoreapp3.1\test.adiq.Infra.pdb
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\bin\Debug\netcoreapp3.1\test.adiq.Domain.dll
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\bin\Debug\netcoreapp3.1\test.adiq.Domain.pdb
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\obj\Debug\netcoreapp3.1\test.adiq.Infra.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\obj\Debug\netcoreapp3.1\test.adiq.Infra.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\obj\Debug\netcoreapp3.1\test.adiq.Infra.AssemblyInfo.cs
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\obj\Debug\netcoreapp3.1\test.adiq.Infra.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\obj\Debug\netcoreapp3.1\test.adiq.Infra.csproj.CopyComplete
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\obj\Debug\netcoreapp3.1\test.adiq.Infra.dll
+C:\Users\diego\source\repos\test.adiq.Api\test.adiq.Infra\obj\Debug\netcoreapp3.1\test.adiq.Infra.pdb
